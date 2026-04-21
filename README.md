@@ -1,3 +1,11 @@
+##Project Structure
+bug-tracker-system/
+│
+├── index.html
+├── issue.html
+├── style.css
+├── app.js
+└── README.md
 # Bug-tracker-system
 ## Features
 - View all issues
